@@ -1,6 +1,4 @@
-/*TIPS: *No olvides utilizar el almacenamiento local (localStorage)
-para que las tareas queden guardadas en caso
-de que la aplicación se cierre.*/
+
 
 let tasks = []
 
